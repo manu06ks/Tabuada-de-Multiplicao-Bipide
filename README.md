@@ -1,4 +1,4 @@
-# Tabuada-de-Multiplicao-Bipide.
+# Tabuada-de-Multiplicao-Bipide
 Projeto acadêmico da disciplina de Organização e Arquitetura de Computadores, desenvolvido com a linguagem Portugol no simulador BIP IDE.
 
 # Relatório de Funcionamento: Multiplicação por Somas Sucessivas no BIPIDE IV
